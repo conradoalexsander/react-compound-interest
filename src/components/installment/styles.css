@@ -1,0 +1,21 @@
+.card-content {
+  padding: 10px !important;
+  height: 100px;
+}
+
+.profit {
+  color: green;
+}
+
+.loss {
+  color: red;
+}
+
+.card-bold-text {
+  font-weight: bold;
+}
+
+.installment-number {
+  margin-left: 10px !important;
+  margin-top: 22px
+}
